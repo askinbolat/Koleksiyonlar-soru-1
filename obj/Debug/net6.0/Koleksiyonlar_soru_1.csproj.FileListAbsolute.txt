@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\bin\Debug\net6.0\Koleksiyonlar_soru_1.exe
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\bin\Debug\net6.0\Koleksiyonlar_soru_1.deps.json
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\bin\Debug\net6.0\Koleksiyonlar_soru_1.runtimeconfig.json
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\bin\Debug\net6.0\Koleksiyonlar_soru_1.dll
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\bin\Debug\net6.0\Koleksiyonlar_soru_1.pdb
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\obj\Debug\net6.0\Koleksiyonlar_soru_1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\obj\Debug\net6.0\Koleksiyonlar_soru_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\obj\Debug\net6.0\Koleksiyonlar_soru_1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\obj\Debug\net6.0\Koleksiyonlar_soru_1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\obj\Debug\net6.0\Koleksiyonlar_soru_1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\obj\Debug\net6.0\Koleksiyonlar_soru_1.dll
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\obj\Debug\net6.0\refint\Koleksiyonlar_soru_1.dll
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\obj\Debug\net6.0\Koleksiyonlar_soru_1.pdb
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\obj\Debug\net6.0\Koleksiyonlar_soru_1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Koleksiyonlar_soru_1\obj\Debug\net6.0\ref\Koleksiyonlar_soru_1.dll
